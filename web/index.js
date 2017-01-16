@@ -1,5 +1,5 @@
 require('habitat').load();
-require('newrelic');
+// require('newrelic');
 
 var Hoek = require('hoek');
 
